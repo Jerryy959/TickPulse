@@ -1,0 +1,4 @@
+/Users/comet/kafang/tickpulse/build/CMakeFiles/market_data.dir
+/Users/comet/kafang/tickpulse/build/CMakeFiles/example_app.dir
+/Users/comet/kafang/tickpulse/build/CMakeFiles/edit_cache.dir
+/Users/comet/kafang/tickpulse/build/CMakeFiles/rebuild_cache.dir
